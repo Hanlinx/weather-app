@@ -1,4 +1,4 @@
 
 fetch weather data from openweatherapi and display 
 
-![](output-image/weather.png)
+![](output-image/weather.PNG)
